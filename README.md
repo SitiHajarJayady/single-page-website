@@ -1,6 +1,6 @@
 # single-page-website
 
-A responsive single-page website developed to present key information about an organization and its past event, including itinerary details, seating layout, and venue information.
+A responsive single-page website developed to present key information about an organization and its upcoming event, including itinerary details, seating layout, and venue information.
 
 ## Overview
 
